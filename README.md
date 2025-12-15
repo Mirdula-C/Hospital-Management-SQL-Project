@@ -114,7 +114,7 @@ This project demonstrates a **Hospital Database Management System** using SQL. I
 
 ### ✅ Q11 – UNION and UNION ALL
 
-**What I did:** I used UNION and UNION ALL to combine doctor names and patient names from two different tables.
+**What I did:** I used UNION and UNION ALL to combine doctor names.
 
 **What it will do:** UNION displays a single list of names without duplicates, while UNION ALL displays all names including duplicates.
 
